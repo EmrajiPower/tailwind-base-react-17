@@ -7,4 +7,4 @@ Boilerplate includes:
 - [x] Tailwind config for start building landing or proyect.
 - [x] Fontawesome icon library for jsx.
 
-Dependencies are working with `Node v12.18.3`
+Dependencies are working with `Node v14.15.4`
