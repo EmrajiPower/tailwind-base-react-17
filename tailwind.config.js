@@ -11,6 +11,13 @@ module.exports = {
   presets: [],
   darkMode: "class",
   theme: {
+    fontFamily: {
+      sans: ['Airbnb'],
+      serif: ['Airbnb'],
+      mono: ['Airbnb'],
+      display: ['Airbnb'],
+      body: ['Airbnb']
+    },
     screens: {
       sm: "640px",
       md: "768px",
